@@ -2,7 +2,7 @@
 
 ## Installation
 
-Be careful, this will wipe previous configuration(if any).
+Be careful, this will wipe previous configuration (if any).
 
 [Maid](https://github.com/egoist/maid) is required.
 
